@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
 
 
 *{
@@ -97,7 +98,7 @@ a{
 
     
 
-    bottom: -16%;
+    bottom: -10%;
     left: -5%;
     font-weight: bold;
     transition: all 3s;
@@ -186,8 +187,8 @@ a{
     filter: grayscale(1);
     transition: all 1s;
     animation: scaleImage 5s linear infinite;
-    
 }
+
 
 .myimage img{
     z-index: -1;
