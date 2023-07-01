@@ -120,6 +120,7 @@ a{
 .role{
     color: #4e45d5 ;
     font-weight: 800;
+    font-family: 'Source Code Pro', monospace;
 }
 
 .hero-section-sub-heading{
@@ -131,6 +132,7 @@ a{
     margin-top: 1rem;
     width: 70%;
     font-weight: 500;
+    margin-bottom: 1.6em;
 }
 .btn{
     background-color: rebeccapurple;
@@ -298,3 +300,4 @@ a{
         left: 48%;
     }
 }
+
